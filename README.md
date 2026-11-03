@@ -1,6 +1,12 @@
 # pattern-texture-skill · 服装纹样与面料肌理设计技能
 
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Stars](https://img.shields.io/github/stars/hexiaoyu0525-design/pattern-texture-skill)
+
 > 一套面向**服装设计师、纹样师、教师、参赛学生**的方法论：把"纹样/肌理从哪里来、怎么设计、能不能落地"一路打通——覆盖 **纹样构成、色彩构成、风格标签库、工艺适配、立体肌理、转译重构、应用部位、出图模板、版权合规、自检诊断** 十大核心能力。
+
+> 🎨 **配套技能**：[fashion-studio](https://github.com/hexiaoyu0525-design/fashion-studio)（服装全流程：企划/出图/视频/赛事）——两个技能可独立使用，也可协同工作。
 
 License: **CC BY 4.0**（使用须署名）· 版本 1.0.0 · 作者：hexiaoyu0525-design
 
@@ -108,6 +114,17 @@ npx skills add <你的GitHub用户名>/pattern-texture-skill
 - 「这个纹样能不能刺绣？成本大概多少」
 - 「把传统缠枝纹转成现代极简风格」
 - 「生成的纹样太满了 / 拼接不上 / 配色太艳，帮我看看怎么改」
+
+### 示例：完整走一遍
+
+**你说**：「帮我设计一个宋韵新生主题的春夏连衣裙纹样」
+
+**Agent 输出**：
+1. 先反问你 2-3 个问题：情绪方向（清雅/华丽/现代）、配色偏好（天青/藕荷/泥金）、工艺类型（印花/刺绣/提花）
+2. 给你设计思路：用什么创新模式（比如"骨式提取 + 古今对话"）、主纹是什么、地纹是什么
+3. 给你三层配色方案：主色 70% + 辅助色 20% + 点缀色 10%（带 HEX 色值）
+4. 给你工艺建议：这个纹样适合什么工艺、注意什么限制
+5. 给你完整出图提示词：直接复制到即梦/Midjourney 就能生成
 
 开工可在项目文件夹放 `纹样/ 参考图/ 面料/ 灵感/` 等素材，Agent 会按 `SKILL.md` 任务路由表加载对应文件。
 
