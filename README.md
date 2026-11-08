@@ -1,14 +1,14 @@
 # pattern-texture-skill · 服装纹样与面料肌理设计技能
 
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/Version-1.1.1-blue)
 ![Stars](https://img.shields.io/github/stars/hexiaoyu0525-design/pattern-texture-skill)
 
 > 一套面向**服装设计师、纹样师、教师、参赛学生**的方法论：把"纹样/肌理从哪里来、怎么设计、能不能落地"一路打通——覆盖 **纹样构成、色彩构成、风格标签库、工艺适配、立体肌理、转译重构、应用部位、出图模板、版权合规、自检诊断** 十大核心能力。
 
 > 🎨 **配套技能**：[fashion-studio](https://github.com/hexiaoyu0525-design/fashion-studio)（服装全流程：企划/出图/视频/赛事）——两个技能可独立使用，也可协同工作。
 
-License: **CC BY 4.0**（使用须署名）· 版本 1.0.0 · 作者：hexiaoyu0525-design
+License: **CC BY 4.0**（使用须署名）· 版本 1.1.1 · 作者：hexiaoyu0525-design
 
 ---
 
@@ -21,8 +21,8 @@ License: **CC BY 4.0**（使用须署名）· 版本 1.0.0 · 作者：hexiaoyu0
 ### 十大核心能力
 
 1. **纹样设计与生成提示词**：二方连续 / 四方连续 / 适合纹样 / 单独纹样的标准出图流程。
-2. **面料肌理分类与生成**：提花 / 绗缝 / 扎染 / 植绒 / 面料再造等 80+ 种肌理的视觉描述。
-3. **纹样工艺适配判断**：八大工艺族 + 高端特殊工艺的可行性建议与成本量级。
+2. **面料肌理分类与生成**：提花 / 绗缝 / 扎染 / 植绒 / 面料再造等 50+ 种肌理的视觉描述。
+3. **纹样工艺适配判断**：七大工艺族 + 高端/特殊工艺的可行性建议与成本量级。
 4. **传统纹样现代化转译**：15 种创新模式（骨式提取、风格混搭、解构重组、材质转译、古今对话……）。
 5. **配色方案生成与色彩调性判断**：三层配色比例、深浅底差异、工艺配色限制。
 6. **纹样自检与质量检查**：构成 / 配色 / 工艺 / 去 AI 味四张检查清单。
@@ -151,8 +151,8 @@ pattern-texture-skill/
    │  ├─ western-historic.md     #   西方历史
    │  ├─ modern-contemporary.md  #   现代当代
    │  └─ global-tribal.md        #   其他地区 / 部落
-   ├─ craft-guide.md             # 八大工艺族 + 高端特殊工艺 + 成本 + 组合决策
-   ├─ texture-guide.md           # 80+ 种肌理分类
+   ├─ craft-guide.md             # 七大工艺族 + 高端/特殊工艺 + 成本 + 组合决策
+   ├─ texture-guide.md           # 50+ 种肌理分类
    ├─ application-guide.md       # 部位速查 + 密度 + 面料适配 + 风格匹配
    ├─ prompt-templates.md        # 三步出图流程 + 五种场景模板 + 负面提示词
    ├─ quality-checklist.md       # 构成/配色/工艺/去AI味四张检查清单
@@ -178,7 +178,7 @@ pattern-texture-skill/
 本作品采用 **[Creative Commons 署名 4.0 国际许可协议（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/)** 授权。
 
 - 你可以共享、改编、商用，但**必须署名原作者**（hexiaoyu0525-design，并注明作品名 pattern-texture-skill）、不得追加限制。
-- 完整法律文本见 [`LICENSE`](LICENSE)。
+- 许可要点见 [`LICENSE`](LICENSE)（本仓库 LICENSE 为要点摘要 + 官方链接，非全文）；完整法律文本见 [CC BY 4.0 官方页面](https://creativecommons.org/licenses/by/4.0/legalcode)。
 
 **使用边界**：本仓库公开，欢迎学习与借鉴方法论（设计思路、流程组织、检查清单均可参考）。但不得在未署名或改名换名后作为自己作品发布；引用本作品内容请注明出处。
 
