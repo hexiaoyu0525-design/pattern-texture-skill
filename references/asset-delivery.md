@@ -4,7 +4,7 @@
 
 > 归属：pattern-texture-skill · 作用域：**pts 全部 AI 生成/编辑产物，无例外**——纹样图、肌理特写、配色色卡、四方连续拼接测试图、成衣效果等一切图片产物；不限于某一类纹样或某一种工艺。
 > 前置：纹样设计流程走 `design-workflow.md`；出图提示词走 `prompt-templates.md`；翻车诊断走 `pattern-diagnosis.md`；版权合规走 `copyright-guide.md`。
-> 版本：1.1.1 · 许可 CC BY 4.0
+> 版本：1.1.2 · 许可 CC BY 4.0
 
 ## 一、核心原则：两份即可，不自动保存
 

@@ -4,7 +4,7 @@ description: "服装纹样与面料肌理的创新设计技能，覆盖纹样构
 license: CC-BY-4.0
 metadata:
   author: "hexiaoyu0525-design"
-  version: "1.1.1"
+  version: "1.1.2"
   license-name: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
   repository: "https://github.com/hexiaoyu0525-design/pattern-texture-skill"
   copyright: "Copyright © 2026 hexiaoyu0525-design"
@@ -57,7 +57,7 @@ metadata:
 | **4. 深入构成** | 骨式怎么排？四方连续怎么拼？正负形怎么设计？疏密怎么安排？ | → `composition-pattern.md`（构成深度工具箱） |
 | **5. 深入配色** | 三层配色比例怎么定？深浅底怎么处理？工艺配色有什么限制？ | → `color-pattern.md`（配色深度工具箱） |
 | **6. 选工艺** | 这个纹样适合什么工艺？印花/刺绣/提花/后整理？ | → `craft-guide.md`（七大工艺族+高端/特殊+成本+组合决策） |
-| **7. 选肌理** | 面料本身的肌理是什么？提花/绗缝/扎染/植绒/面料再造？ | → `texture-guide.md`（50+种肌理分类） |
+| **7. 选肌理** | 面料本身的肌理是什么？提花/绗缝/扎染/植绒/面料再造？ | → `texture-guide.md`（80+种肌理分类） |
 | **8. 定应用部位** | 用在领口/袖口/门襟/满身/局部？密度怎么控制？ | → `application-guide.md`（部位速查+面料匹配+风格匹配） |
 | **9. 写提示词** | 怎么写能直接出图？三步出图流程是什么？ | → `prompt-templates.md`（五种场景模板+负面提示词） |
 | **10. 生成后自检** | 构成对不对？配色对不对？工艺对不对？有没有AI味？ | → `quality-checklist.md`（四张检查清单） |
@@ -108,7 +108,7 @@ metadata:
 - **纹样配色（深度）** → `references/color-pattern.md`（三层配色比例、对比关系、深浅底差异、工艺配色限制、视觉修正、常见坑、风格→配色速查表）
 - **创新设计工作流** → `references/design-workflow.md`（从情绪/概念出发的8步创新设计流程，强调层次、高级感）
 - **创新方法库** → `references/innovation-library.md`（15种创新模式操作指南、系列化设计方法、创新强度判断、常见误区）
-- **转译模式** → `references/translation-guide.md`（传统元素现代化转译四种方法、古今对比、系列生成）
+- **转译模式** → `references/translation-guide.md`（传统元素现代化转译四种方法、古今对比、纹样演变线）
 - **分析工作流** → `references/analysis-workflow.md`（拿到参考图后的7步拆解流程+输出模板）
 - **风格标签库** → `references/style-library/` 目录下四个文件：
   - 东方传统：`east-asian.md`
