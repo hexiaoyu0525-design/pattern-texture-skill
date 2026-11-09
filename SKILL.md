@@ -4,7 +4,7 @@ description: "服装纹样与面料肌理的创新设计技能，覆盖纹样构
 license: CC-BY-4.0
 metadata:
   author: "hexiaoyu0525-design"
-  version: "1.1.3"
+  version: "1.1.4"
   license-name: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
   repository: "https://github.com/hexiaoyu0525-design/pattern-texture-skill"
   copyright: "Copyright © 2026 hexiaoyu0525-design"
