@@ -1,14 +1,14 @@
 # pattern-texture-skill · 服装纹样与面料肌理设计技能
 
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Version](https://img.shields.io/badge/Version-1.1.2-blue)
+![Version](https://img.shields.io/badge/Version-1.1.3-blue)
 ![Stars](https://img.shields.io/github/stars/hexiaoyu0525-design/pattern-texture-skill)
 
 > 一套面向**服装设计师、纹样师、教师、参赛学生**的方法论：把"纹样/肌理从哪里来、怎么设计、能不能落地"一路打通——覆盖 **纹样构成、色彩构成、风格标签库、工艺适配、立体肌理、转译重构、应用部位、出图模板、版权合规、自检诊断** 十大核心能力。
 
 > 🎨 **配套技能**：[fashion-studio](https://github.com/hexiaoyu0525-design/fashion-studio)（服装全流程：企划/出图/视频/赛事）——两个技能可独立使用，也可协同工作。
 
-License: **CC BY 4.0**（使用须署名）· 版本 1.1.2 · 作者：hexiaoyu0525-design
+License: **CC BY 4.0**（使用须署名）· 版本 1.1.3 · 作者：hexiaoyu0525-design
 
 ---
 
@@ -167,7 +167,7 @@ pattern-texture-skill/
 
 ## 生成平台与适配
 
-- **默认**：生图用即梦 **Seedream 5.0 Pro**（大片 / 高定 / campaign 等成品档默认 Pro；Pro 不可用时降级 5.0 Flash / 标准版）。
+- **默认**：生图用即梦 **Seedream 5.5**（当前最新统一版本；大片 / 高定 / campaign 等成品档默认 5.5；5.5 不可用时降级 5.0 Pro / 5.0 Flash）。
 - **可换**：Midjourney / Flux / Stable Diffusion / 其他出图平台。能力清单、术语映射、降级做法见 `fashion-studio` 的 `references/tool-adapter.md`（同一套适配层）。
 - 各文件里标注的"参考图上限、比例、参数"等是**默认平台口径**，换平台以官方为准；设计流程、锚点、工艺常数不变。
 

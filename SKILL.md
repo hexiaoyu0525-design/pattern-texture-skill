@@ -4,7 +4,7 @@ description: "服装纹样与面料肌理的创新设计技能，覆盖纹样构
 license: CC-BY-4.0
 metadata:
   author: "hexiaoyu0525-design"
-  version: "1.1.2"
+  version: "1.1.3"
   license-name: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
   repository: "https://github.com/hexiaoyu0525-design/pattern-texture-skill"
   copyright: "Copyright © 2026 hexiaoyu0525-design"
@@ -130,10 +130,10 @@ metadata:
 
 > 本技能的方法论**工具中立**；下列平台是**作者实测的默认实现**，不是唯一选择。
 
-- **生图（默认推荐）**：**Seedream 5.0 Pro**（即梦；**纹样/肌理细节多的图优先用 Pro**，细节精度高、防漂移；Pro 不可用时降级 5.0 Flash/标准版）。
-  - **四方连续纹样**：建议用 Pro，因为无缝拼接的边缘细节很重要
-  - **面料肌理特写**：建议用 Pro，因为织纹/光泽/凹凸的微距细节很重要
-  - **简单预览/草稿**：可以用 Flash 或标准版快速出图看效果
+- **生图（默认推荐）**：**Seedream 5.5**（即梦；当前最新统一版本，**纹样/肌理细节多的图精度高、防漂移**；5.5 不可用时降级 5.0 Pro / 5.0 Flash）。
+  - **四方连续纹样**：建议用 5.5，因为无缝拼接的边缘细节很重要
+  - **面料肌理特写**：建议用 5.5，因为织纹/光泽/凹凸的微距细节很重要
+  - **简单预览/草稿**：可以用 5.5 快速出图看效果（需省额度时降级 5.0 Flash）
 - **本技能**不绑定本地节点工作流、不依赖本地算力；批量提效交给云平台的批量能力。
 - 我负责把料备齐、把提示词写准；**最终"生成"由你按下**。连接器没开时流程照走，只是不由我直接调用——正因如此，这套方法在任何 Agent、任何平台上都能用。
 
