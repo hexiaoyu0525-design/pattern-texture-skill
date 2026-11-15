@@ -1,16 +1,26 @@
 # pattern-texture-skill · 服装纹样与面料肌理设计技能
 
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Version](https://img.shields.io/badge/Version-1.1.4-blue)
-![Stars](https://img.shields.io/github/stars/hexiaoyu0525-design/pattern-texture-skill)
+![Version](https://img.shields.io/badge/Version-1.1.5-blue)
 
 > 一套面向**服装设计师、纹样师、教师、参赛学生**的方法论：把"纹样/肌理从哪里来、怎么设计、能不能落地"一路打通——覆盖 **纹样构成、色彩构成、风格标签库、工艺适配、立体肌理、转译重构、应用部位、出图模板、版权合规、自检诊断** 十大核心能力。
 
-> 🎨 **配套技能**：[fashion-studio](https://github.com/hexiaoyu0525-design/fashion-studio)（服装全流程：企划/出图/视频/赛事）——两个技能可独立使用，也可协同工作。
+> 🎨 **配套技能**：`fashion-studio`（服装全流程：企划/出图/视频/赛事）——两个技能可独立使用，也可协同工作。
 
-License: **CC BY 4.0**（使用须署名）· 版本 1.1.4 · 作者：hexiaoyu0525-design
+License: **CC BY 4.0**（使用须署名）· 版本 1.1.5 · 作者：hexiaoyu0525-design
 
 ---
+
+## 目录
+
+- 这是什么
+- 明确不做什么（边界）
+- 安装
+- 与 fashion-studio 的分工
+- 快速开始
+- 目录结构
+- 生成平台与适配
+- 许可证
 
 ## 这是什么
 
@@ -155,6 +165,7 @@ pattern-texture-skill/
    ├─ texture-guide.md           # 80+ 种肌理分类
    ├─ application-guide.md       # 部位速查 + 密度 + 面料适配 + 风格匹配
    ├─ prompt-templates.md        # 三步出图流程 + 五种场景模板 + 负面提示词
+   ├─ asset-delivery.md          # AI 资产交付（对话直接展示 + 画布自动留份，不手动归档）
    ├─ quality-checklist.md       # 构成/配色/工艺/去AI味四张检查清单
    ├─ pattern-diagnosis.md       # 翻车急诊（症状→病因→药方）
    ├─ copyright-guide.md         # 纹样版权边界
@@ -182,6 +193,6 @@ pattern-texture-skill/
 
 **使用边界**：本仓库公开，欢迎学习与借鉴方法论（设计思路、流程组织、检查清单均可参考）。但不得在未署名或改名换名后作为自己作品发布；引用本作品内容请注明出处。
 
-© 2026 hexiaoyu0525-design　·　仓库：<https://github.com/hexiaoyu0525-design/pattern-texture-skill>
+© 2026 hexiaoyu0525-design
 
 > 免责声明：本作品为方法论与提示词模板，以"现状"提供；涉及品牌名仅用于行业示例，不构成侵权指引；商用请遵循各生成平台条款与所在国法规。

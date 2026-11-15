@@ -4,13 +4,22 @@ description: "服装纹样与面料肌理的创新设计技能，覆盖纹样构
 license: CC-BY-4.0
 metadata:
   author: "hexiaoyu0525-design"
-  version: "1.1.4"
+  version: "1.1.5"
   license-name: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
-  repository: "https://github.com/hexiaoyu0525-design/pattern-texture-skill"
   copyright: "Copyright © 2026 hexiaoyu0525-design"
 ---
 
 # 纹样肌理技能（Pattern & Texture Skill）
+
+## 目录
+
+- 核心定位
+- 核心工作流程
+- 内置开关（建议主动询问或默认开启）
+- 参考文件导航
+- 生成工具与入口（默认平台，可替换）
+- 交付规范（两份即可，不自动保存）
+- 禁止事项
 
 ## 核心定位
 
@@ -30,18 +39,18 @@ metadata:
 
 | 任务类型 | 典型说法 | 加载参考 |
 |---|---|---|
-| **纹样解析** | "帮我分析这个纹样的骨式/构成/配色" | `analysis-workflow.md`（完整分析流程） + `composition-pattern.md`（骨式/构成深度） |
-| **纹样生成** | "帮我出一个四方连续的宋式折枝纹样提示词" | `design-workflow.md`（完整设计流程） + `innovation-library.md`（创新模式选择） + `style-library/` 对应文件 + `prompt-templates.md` |
-| **肌理生成** | "帮我描述一下提花肌理/绗缝肌理" | `texture-guide.md` + `prompt-templates.md`（肌理特写模板） |
-| **工艺校验** | "这个纹样能不能刺绣/能不能印花" | `craft-guide.md` + `color-pattern.md` 第四章（工艺配色限制） |
-| **纹样转译** | "把传统缠枝纹转成现代极简风格" | 日常设计直接用 `innovation-library.md`（15种创新模式）；教学/学术场景（写论文、做课题、要演变线）再加 `translation-guide.md`（古今对比模板/纹样演变线） |
-| **应用指导** | "这个纹样用在领口还是满身" | `application-guide.md` |
-| **配色方案** | "帮我出三套这个纹样的配色" | `color-pattern.md`（纹样配色深度工具箱） |
-| **纹样自检** | "帮我看看这个纹样有什么问题" | `quality-checklist.md` + `color-pattern.md` 第六章（常见坑） |
-| **出图提示词** | "帮我写一个可以直接出图的提示词" | `prompt-templates.md`（对应场景模板） |
-| **版权咨询** | "这个纹样能不能商用 / 会不会侵权" | `copyright-guide.md`（传统纹样版权边界、品牌纹样风险、AI 生成版权问题） |
-| **案例参考** | "有没有完整的纹样设计案例可以参考" | `case-study.md`（宋韵新生正向生成 + 反向解析 + 翻车修复三个示例） |
-| **非遗专项** | "金苍绣/宋锦/苗族蜡染的纹样特点" | 先查 `references/extensions/` 下是否有对应文件：有则加载；**没有则直接提示用户"该非遗项目暂未收录，建议先用 `style-library/` 对应风格文件（东方传统 / 西方历史 / 现代当代 / 其他地区）替代获取通用方向"，建议不要空跑**。 |
+| **纹样解析** | "帮我分析这个纹样的骨式/构成/配色" | `references/analysis-workflow.md`（完整分析流程） + `references/composition-pattern.md`（骨式/构成深度） |
+| **纹样生成** | "帮我出一个四方连续的宋式折枝纹样提示词" | `references/design-workflow.md`（完整设计流程） + `references/innovation-library.md`（创新模式选择） + `references/style-library/` 对应文件 + `references/prompt-templates.md` |
+| **肌理生成** | "帮我描述一下提花肌理/绗缝肌理" | `references/texture-guide.md` + `references/prompt-templates.md`（肌理特写模板） |
+| **工艺校验** | "这个纹样能不能刺绣/能不能印花" | `references/craft-guide.md` + `references/color-pattern.md` §四「不同工艺的配色限制」 |
+| **纹样转译** | "把传统缠枝纹转成现代极简风格" | 日常设计直接用 `references/innovation-library.md`（15种创新模式）；教学/学术场景（写论文、做课题、要演变线）再加 `references/translation-guide.md`（古今对比模板/纹样演变线） |
+| **应用指导** | "这个纹样用在领口还是满身" | `references/application-guide.md` |
+| **配色方案** | "帮我出三套这个纹样的配色" | `references/color-pattern.md`（纹样配色深度工具箱） |
+| **纹样自检** | "帮我看看这个纹样有什么问题" | `references/quality-checklist.md` + `references/color-pattern.md` §六「纹样配色的常见坑」 |
+| **出图提示词** | "帮我写一个可以直接出图的提示词" | `references/prompt-templates.md`（对应场景模板） |
+| **版权咨询** | "这个纹样能不能商用 / 会不会侵权" | `references/copyright-guide.md`（传统纹样版权边界、品牌纹样风险、AI 生成版权问题） |
+| **案例参考** | "有没有完整的纹样设计案例可以参考" | `references/case-study.md`（宋韵新生正向生成 + 反向解析 + 翻车修复三个示例） |
+| **非遗专项** | "金苍绣/宋锦/苗族蜡染的纹样特点" | 先查 `references/extensions/` 下是否有对应文件：有则加载；**没有则直接提示用户"该非遗项目暂未收录，建议先用 `references/style-library/` 对应风格文件（东方传统 / 西方历史 / 现代当代 / 其他地区）替代获取通用方向"，建议不要空跑**。 |
 
 ---
 
