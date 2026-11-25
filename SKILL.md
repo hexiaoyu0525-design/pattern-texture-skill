@@ -4,7 +4,7 @@ description: "服装纺织纹样设计技能：纹样、图案、印花、刺绣
 license: CC-BY-4.0
 metadata:
   author: "hexiaoyu0525-design"
-  version: "1.6.11"
+  version: "1.6.12"
   license-name: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
   copyright: "Copyright © 2026 hexiaoyu0525-design"
 ---
