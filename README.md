@@ -1,13 +1,13 @@
 # pattern-texture-skill · 服装纹样与面料肌理设计技能
 
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Version](https://img.shields.io/badge/Version-1.6.13-blue)
+![Version](https://img.shields.io/badge/Version-1.6.14-blue)
 
 > 一套面向**服装设计师、纹样师、教师、参赛学生**的方法论：把"纹样/肌理从哪里来、怎么设计、能不能落地"一路打通——覆盖 **纹样构成、色彩构成、风格标签库、工艺适配、立体肌理、转译重构、应用部位、载体落地、出图模板、成品展示视频、版权合规、自检诊断** 十二大核心能力。
 
 > 🎨 **配套技能**：`fashion-studio`（服装全流程：企划/出图/视频/赛事）——两个技能可独立使用，也可协同工作。
 
-License: **CC BY 4.0**（使用须署名）· 版本 1.6.13 · 作者：hexiaoyu0525-design
+License: **CC BY 4.0**（使用须署名）· 版本 1.6.14 · 作者：hexiaoyu0525-design
 
 ---
 
